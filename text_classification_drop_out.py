@@ -1,0 +1,9 @@
+import text_classification_1 
+import text_classification_2
+import text_classification_3
+import text_classification_4
+
+text_classification_1.main(True)
+text_classification_2.main(True)
+text_classification_3.main(True)
+text_classification_4.main(True)
